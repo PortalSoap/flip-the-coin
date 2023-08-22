@@ -1,0 +1,36 @@
+* {
+    margin: 0px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.title {
+    width: 600px;
+    background-color: #999999;
+    border-radius: 10px;
+    margin: 10px auto;
+    padding: 10px;
+}
+
+.title h1 {
+    margin: 0px;
+    margin-bottom: 10px;
+}
+
+.title p {
+    margin: 0px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
+ button {
+    padding: 5px 10px;
+    background-color: #999999;
+    border-radius: 10px;
+    font-size: 24px;
+}
